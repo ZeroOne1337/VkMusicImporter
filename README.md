@@ -22,7 +22,7 @@ To use this app you will have to enter following information:
 
 3. Your antigate.com maximum bid for 1 solved captcha
 
-4. Path to the dirrectory that stores your .mp3 files
+4. Path to the directory that stores your .mp3 files
 
 
 
