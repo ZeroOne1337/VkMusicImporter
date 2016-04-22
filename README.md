@@ -3,13 +3,13 @@ Add your local songs to VK by searching for ID3 tags in music.
 
 **What do you need for this to work:**
 
-'import vk_api' #self-explanatory
+`import vk_api` #self-explanatory
 
-'import os' #used for reading your music library
+`import os` #used for reading your music library
 
-'import pyantigate' #used for deciphering Captcha that will pop-up every 10 tracks or so
+`import pyantigate` #used for deciphering Captcha that will pop-up every 10 tracks or so
 
-'from mutagen.id3 import ID3' #used for reading ID3 info
+`from mutagen.id3 import ID3` #used for reading ID3 info
 
 
 ## Usage
