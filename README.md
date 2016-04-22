@@ -15,10 +15,16 @@ Add your local songs to VK by searching for ID3 tags in music.
 ## Usage
 
 To use this app you will have to enter following information:
+
 1. Your vk.com login and password
+
 2. Your antigate.com key
+
 3. Your antigate.com maximum bid for 1 solved captcha
+
 4. Path to the dirrectory that stores your .mp3 files
+
+
 
 
 If you have any questions feel free to message me at vk.com/zrn01
